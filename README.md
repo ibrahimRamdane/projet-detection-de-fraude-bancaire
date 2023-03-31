@@ -1,4 +1,5 @@
 # Détecteur de fraude sur des transactions bancaires
+Projet assez conséquent pour la détection de fraude sur des transactions bancaires
 
 ## Description
 Ce projet a pour but de reconnaitre à l’aide d'une base de donnée si oui ou non, une transaction est frauduleuse. La base de donnée utilisée est composée de données banquaires associés à des transaction. Ces données sont un ensemble de variables explicatives, ainsi qu’une classe. La majorité des variables explicatives sont inconnus. Seulement la tranaction et sa valeur le sont. La classe de la valeur correspond au fait que la transaction soit frauduleuse ou non.
